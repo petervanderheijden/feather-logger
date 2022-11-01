@@ -1,0 +1,20 @@
+{
+  "name": "feather-logger",
+  "version": "1.0.0",
+  "description": "A lightweight pretty logger for databases, files and the console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pretty",
+    "terminal",
+    "console",
+    "logger",
+    "database",
+    "file",
+    "lightweight"
+  ],
+  "author": "Peter van der Heijden",
+  "license": "MIT"
+}
